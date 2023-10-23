@@ -4,7 +4,7 @@ A simplified Windows/Office activator using HWID / Ohook / KMS38.
 
 
 ## Installation
-Only read this after the installation of [OEM Windows/Office](https://github.com/Birdabo404/Birdabo-Microsoft-Activation/new/main?readme=1#downloads).
+Only read this after the installation of [OEM Windows/Office](https://github.com/Birdabo404/Birdabo-Microsoft-Activation#downloads).
 
 ### Terminal Method - (Recommended)
 - On Windows 10/11, right-click on the Windows start menu and select PowerShell or Terminal (admin).
