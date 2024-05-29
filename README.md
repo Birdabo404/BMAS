@@ -37,24 +37,26 @@ $ Thats it. Activated.
   
 ## 🔧  INSTALLATION
 - STEP 1.
-  - Uninstall any Microsoft Office copy you have in your system.
-  - [DOWNLOAD](https://go.microsoft.com/fwlink/?linkid=525133) The Microsoft 365 & Office 2024 for FREE.
+  - `UNINSTALL` any Microsoft Office copy you have in your system.
+  - [Download](https://go.microsoft.com/fwlink/?linkid=525133) The Microsoft 365 & Office 2024 for FREE.
   - Click the `Download` button. 
 - STEP 2.
-  - Open the PKG File and Install Office-2024.
+  - Open the PKG File to Install Office-2024 in your system.
   - Enter your macOS password. \
   ![preview](https://github.com/Birdabo404/BMAS/blob/main/Process/Screenshot%202024-05-29%20at%201.23.46%E2%80%AFPM.png)
   - Follow the instructions and click next. \
   ![preview](https://github.com/Birdabo404/BMAS/blob/main/Process/PreparingInstallation.png)
   - Wait for the Installation to finish. \
   ![preview](https://github.com/Birdabo404/BMAS/blob/main/Process/InstallComplete.png)
+
 - STEP 3.
-  - [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2024_Preview_Serializer.pkg)The Microsoft Office 2024 LTSC (Preview) Volume License Serializer
-  - This will automatically activate your Microsoft Office 2021-2024 LTSC when installed.
+  - [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2024_Preview_Serializer.pkg) The Microsoft Office 2024 LTSC (Preview) Volume License Serializer
+  - This will `automatically` activate your Microsoft Office 2021-2024 After Installation.
 - STEP 4. 
   - Kindly check your MS Applications and see it all activated. ✅
+  ![preview](https://github.com/Birdabo404/BMAS/blob/main/Process/Screenshot%202024-05-29%20at%202.36.17%E2%80%AFPM.png)
 
----------------
+------------------
 ### 📪 Credits
   [massgrave](https://github.com/massgravel/Microsoft-Activation-Scripts.git)\
   https://massgrave.dev \
