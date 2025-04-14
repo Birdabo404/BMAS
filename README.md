@@ -3,7 +3,7 @@
 A simplified Windows & Office activator | This repo now includes macOS Office Activator 🍎
 
 
-## 🔧 Installation - Scroll down for MacOS
+## 🔧 Installation - Scroll down for MacOS installation
   `Dependency:` Only continue reading this after the installation of the [OEM Windows/Office](https://github.com/Birdabo404/Birdabo-Microsoft-Activation#downloads).
   
 ### 📜 Terminal Method WINDOWS - (Recommended)
@@ -12,11 +12,12 @@ A simplified Windows & Office activator | This repo now includes macOS Office Ac
 - DO NOT copy the '$' sign. 
   
 ```
-$ irm https://massgrave.dev/get | iex
+$ irm https://get.activated.win | iex 
 
 $ Press [5] to check office/windows activation status. 
 $ Press [1] to "PERMANENTLY" activate windows.
 $ Press [2] to "PERMANENTLY" activate office.
+$ Kindly allow the process to complete.
 $ Thats it. You're Activated.
 ```
 
