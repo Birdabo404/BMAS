@@ -32,37 +32,55 @@ $ Thats it. You're Activated.
 
 ------------------------------------------------------------------------------
 
-# 🍎 - APPLE UNIVERSAL
-- Supports only `Monterey 12.0.x` to `macOS Sequoia 15.3.x`
-- native support with M series chips included (M4 untested) but should work.
-- Installation for `Big-Sur` and older will be uploaded soon.
+# 🍎 - Office for MACOS 2024
+- Supports only `Ventura 13.x.x` to `macOS Sequoia 15.x.x`
+- native support with ALL M-series chips
+- Works with Hackintosh
   
-## 🔧  INSTALLATION
-- STEP 1.
-  - `UNINSTALL` any Microsoft Office copy you have in your system.
-  - [Download](https://go.microsoft.com/fwlink/?linkid=525133) The official Microsoft 365 & Office 2024 trial.
-  - Click the `Download` button. 
-- STEP 2. \
-  ![preview](https://github.com/Birdabo404/BMAS/blob/main/Process/Screenshot%202024-05-29%20at%201.23.46%E2%80%AFPM.png)
-  - Find the downloaded PKG File and open it.
-  - Enter your macOS password.
- 
-    
-  ![preview](https://github.com/Birdabo404/BMAS/blob/main/Process/InstallComplete.png)
-  - Continue and Follow the installation process.
-  - Congratulations you now have Microsoft Office 2024.
-  - Do not open it yet and continue to the next step. 
+```
+MACOS VERSION AVAILABLE:
+
+- macOS Sequoia (macOS 15) ✅
+- macOS Sonoma (macOS 14) ✅
+- macOS Ventura (macOS 13) ✅
+- macOS Monterey (macOS 12) Request via ISSUES
+- macOS BigSur (macOS 11) Request via ISSUES
+```
+### Step 1: Remove Existing Office Installation & clean old license 
+
+1. Install the application called **Office-Reset** - [Download](https://office-reset.com/download/Microsoft_Office_Reset_1.9.1.pkg)
+2. Follow through the installation process and select > `Completely Remove Microsoft 365/Office`
+3. Finish the installation process.
+
+### Step 2: Download Microsoft Office
+
+Choose the appropriate version from the links below:\
+Generation - 2024 only. 
+
+| Application | Link |
+|-------------|------|
+| Office suite (with Teams)| [download](https://go.microsoft.com/fwlink/p/?linkid=2009112) |
+| Office suite (without Teams) | [download](https://go.microsoft.com/fwlink/p/?linkid=525133) |
+| Word - recommended| [download](https://go.microsoft.com/fwlink/p/?linkid=525134) |
+| Excel | [download](https://go.microsoft.com/fwlink/p/?linkid=525135) |
+| PowerPoint | [download](https://go.microsoft.com/fwlink/p/?linkid=525136) |
+| Outlook | [download](https://go.microsoft.com/fwlink/p/?linkid=525137) |
+| OneNote | [download](https://go.microsoft.com/fwlink/p/?linkid=820886) |
+
+### Step 3: Install the Office Activator
+
+Run the appropriate activator pkg file and install. (**Don't open Office apps before installing activator pkg file**)
+
+| Serializer | Activator | Applicable On |
+|------------|-----------|---------------|
+| Office 2024 | [install me](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) | Sequoia, Sonoma, Ventura |
+| Office 2021 |  <s>[install me](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)</s> | ~~No longer supported~~|
 
 
-- STEP 3.
-  - [Download](https://github.com/alsyundawy/Microsoft-Office-For-MacOS/raw/master/DATA/Microsoft_Office_2024_Preview_Serializer.pkg) The Microsoft Office 2024 LTSC (Preview) Volume License Serializer
-  - This will `automatically` activate your Microsoft Office 2021-2024 After Installation.
-- STEP 4. \
-  ![preview](https://github.com/Birdabo404/BMAS/blob/main/Process/Screenshot%202024-05-29%20at%202.36.17%E2%80%AFPM.png)
-  - Check your OFFICE and see if its activated. ✅
-
-- STEP 5.
-  - Star this repo :) thank you!
+### Step 4: Follow the process and voila! 🎉😇
+- after doing the step by step process you'll eventually have an activated office for macOS, virus free!
+- This is for educational purpose only. I dont own any script shown in this repo.
+- leave a ⭐️ so it may reach more students.
 
 ------------------
 ### 📪 Credits
