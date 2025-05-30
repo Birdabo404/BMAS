@@ -1,6 +1,11 @@
-Disclaimer:
+⚠️ Disclaimer
 
-This repository is for informational and archival purposes only. 
-All software comes from Microsoft except the activator/script tool, which is not created or endorsed by me. 
-I do not encourage any illegal use, such as software piracy. 
-Downloading and using these tools may violate Microsoft's terms of service. Proceed at your own risk.
+This repository is provided for **educational and archival purposes only.
+
+- Microsoft software linked here is sourced directly from Microsoft's official servers
+- Third-party activation tools are **not created, maintained, or endorsed** by this repository/user
+- Use of activation tools may violate Microsoft's Terms of Service and local laws
+- Users are solely responsible for compliance with applicable licensing agreements
+- **No support will be provided** for any issues arising from tool usage
+
+Proceed at your own risk and responsibility.
