@@ -70,7 +70,7 @@ Run the appropriate activator pkg file and install. (**Don't open Office apps be
 
 | Serializer | Activator | Applicable On |
 |------------|-----------|---------------|
-| Office 2024 | [install me](https://drive.massgrave.dev/Microsoft_Office_LTSC_2024_VL_Serializer.pkg) | Sequoia, Sonoma, Ventura |
+| Office 2024 | [install me](https://buzzheavier.com/ysb9003nnj0m) | Tahoe, Sequoia, Sonoma, Ventura |
 | Office 2021 |  <s>[install me](https://drive.massgrave.dev/Microsoft_Office_LTSC_2021_VL_Serializer.pkg)</s> | ~~No longer supported~~|
 
 
